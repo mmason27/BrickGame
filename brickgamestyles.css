@@ -1,0 +1,84 @@
+body {
+    background-color: #6aaa92;
+}
+
+.blackbox {
+    display: block;
+    height: 20px;
+    background-color: black;
+    margin: 0;
+}
+
+.redbox {
+    display: table-cell;
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    border: solid 1px black;
+    margin: 0;
+}
+
+.yellowbox {
+    display: table-cell;
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+    border: solid 1px black;
+    margin: 0;
+}
+
+.smallblackbox {
+    display: table-cell;
+    height: 40px;
+    width: 105px;
+    background-color: black;
+    margin: 0;
+}
+
+.greenbox {
+    display: table-cell;
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    border: solid 1px black;
+    margin: 0;
+}
+
+.bluebox {
+    display: table-cell;
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    border: solid 1px black;
+    margin: 0;
+}
+
+.bottomblackbox {
+    display: block;
+    height: 300px;
+    background-color: black;
+    margin: 0;
+}
+
+.shortblackbox {
+    display: table-cell;
+    height: 15px;
+    width: 600px;
+    background-color: black;
+    margin: 0;
+}
+
+.aquastripe {
+    display: table-cell;
+    height: 25px;
+    width: 225px;
+    background-color: #6aaa92;
+    margin: 0;
+}
+
+.narrowblackstripe {
+    display: block;
+    height: 10px;
+    background-color: black;
+    margin: 0;
+}
